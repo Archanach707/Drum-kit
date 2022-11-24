@@ -7,3 +7,29 @@ h1 {
   text-align: center;
   font-size: 3.5rem;
 }
+
+.set,
+.footer {
+  text-align: center;
+}
+
+.drum {
+  margin: 50px 10px 150px;
+  padding: 30px 40px;
+  font-size: 3rem;
+  border: 8px solid #474242;
+  border-radius: 5px;
+  font-weight: bold;
+  color: deeppink;
+}
+
+.footer {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+
+
+
+
+
