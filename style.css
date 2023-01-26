@@ -28,8 +28,31 @@ h1 {
   font-size: 1.2rem;
 }
 
+.set .w {
+  background-image: url("images/1.jpg");
+}
 
+.set .a {
+  background-image: url("images/1.jpg");
+}
 
+.set .s {
+  background-image: url("images/3.jpg");
+}
 
+.set .d {
+  background-image: url("images/3.jpg");
+}
 
+.set .j {
+  background-image: url("images/1.jpg");
+}
+
+.set .k {
+  background-image: url("images/6.jpg");
+}
+
+.set .l {
+  background-image: url("images/7.png");
+}
 
