@@ -28,31 +28,54 @@ h1 {
   font-size: 1.2rem;
 }
 
+.set .w,
+.set .a, 
+.set .s,
+.set .d, 
+.set .j,
+.set .k,
+.set .l {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .set .w {
-  background-image: url("images/1.jpg");
+  background-image: url("./images/1.jpg");
 }
 
 .set .a {
-  background-image: url("images/1.jpg");
+  background-image: url("./images/1.jpg");
 }
 
 .set .s {
-  background-image: url("images/3.jpg");
+  background-image: url("./images/3.jpg");
 }
 
 .set .d {
-  background-image: url("images/3.jpg");
+  background-image: url(./images/3.jpg);
 }
 
 .set .j {
-  background-image: url("images/1.jpg");
+  background-image: url("./images/1.jpg");
 }
 
 .set .k {
-  background-image: url("images/6.jpg");
+  background-image: url("./images/6.jpg");
 }
 
 .set .l {
-  background-image: url("images/7.png");
+  background-image: url("./images/7.png");
 }
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+
 
